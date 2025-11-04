@@ -1,4 +1,4 @@
-1. Look in the [table](https://docs.google.com/spreadsheets/d/1cV1CvAwOWxDQwrhasFfoV0_T6r5pmklhSiCanFWS2I4/edit?usp=sharing) and find yourself:
+1. Look in the [table](https://docs.google.com/spreadsheets/d/18BCbKzIc9hk8lhOOB-tLQWyPb4-KshQQF1fvXsSktPE/edit?usp=sharing) and find yourself:
 
 2. Choose one of the passive mechanisms according to your list and model .xml files.
 
